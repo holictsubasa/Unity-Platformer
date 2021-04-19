@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cambionnvl2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SimpleEnemy.cs" Line="11" Column="17" />
+      <File FileName="Assets/Scripts/ControladorMatt.cs" Line="68" Column="11" />
+      <File FileName="Assets/Scripts/MataEnemigo.cs" Line="12" Column="29" />
+      <File FileName="Assets/Scripts/MataPlayer.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/CambioNivel.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/Cambionnvl2.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
